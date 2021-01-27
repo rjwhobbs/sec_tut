@@ -1,3 +1,21 @@
 ip a
+
 ip n # arp -a table
-ip r # route table
+
+# Show routing table, defualt is your gateway
+ip r
+ip route show | grep -P 'default'
+# mac OS
+netstat -nr | grep default
+
+# Ping with only n counts
+ping <ip> -c <n>
+
+# cut
+cut -d "(delimiter)" -f "(feild num)"
+
+# tr (translate) eg remove every ":" occurence
+tr -d ":"
+
+#One liner example
+for ip in $(cat ips.txt); do nmap $ip; done
