@@ -1,0 +1,3 @@
+ip a
+ip n # arp -a table
+ip r # route table
