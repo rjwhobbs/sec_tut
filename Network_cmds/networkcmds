@@ -19,3 +19,12 @@ tr -d ":"
 
 #One liner example
 for ip in $(cat ips.txt); do nmap $ip; done
+
+#Get your private ip
+ip a
+
+#Scan all port with verbose info
+nmap -T4 -p- -A <ip>
+
+#For UDP, defualts to top 1000 ports, UDP takes long
+nmap -sU -T4 -p <ip>
