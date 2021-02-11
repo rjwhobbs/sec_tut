@@ -7,5 +7,11 @@ builtwith.com
 wappalyzer.com
 whatweb
 https://ahrefs.com/blog/google-advanced-search-operators/
+nikto
+(Becareful with dir busting)
+dirbuster
+dirb
+gobuster
+msfconsole
 
 Do a serch for other subdomain hunting tools

@@ -28,3 +28,6 @@ nmap -T4 -p- -A <ip>
 
 #For UDP, defualts to top 1000 ports, UDP takes long
 nmap -sU -T4 -p <ip>
+
+#Vulnerability scans
+nikto -h <url>
