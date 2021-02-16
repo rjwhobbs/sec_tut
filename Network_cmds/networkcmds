@@ -31,3 +31,6 @@ nmap -sU -T4 -p <ip>
 
 #Vulnerability scans
 nikto -h <url>
+
+#Show all devices connected to subnet (not reliable).
+arp-scan -l 

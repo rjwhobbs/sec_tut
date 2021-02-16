@@ -13,5 +13,7 @@ dirbuster
 dirb
 gobuster
 msfconsole
+searchsploit
+masscan (https://github.com/robertdavidgraham/masscan)
 
 Do a serch for other subdomain hunting tools
