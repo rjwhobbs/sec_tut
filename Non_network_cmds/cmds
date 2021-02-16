@@ -1,0 +1,2 @@
+# Verify checksums, if grep returns you have a verified file
+sha<version> <file> | grep <checksum>
