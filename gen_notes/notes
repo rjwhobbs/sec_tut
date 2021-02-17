@@ -1,5 +1,13 @@
+1/////
 Until you know what you're doing NEVER use any of the tools in here to 
 scan etc ips / remote servers that you don't have permission to 
 do so on.
 
+2/////
 Always validate target
+
+3/////
+listening on port 4444 in the 'wild' will get you picked up
+
+4/////
+If brute forcing notify client if they did not pick it up

@@ -17,5 +17,7 @@ searchsploit
 masscan (https://github.com/robertdavidgraham/masscan)
 https://www.tenable.com/downloads/nessus (this crap is expensive)
 OpenVAS
+hydra
+usage example: hydra -l <user> -P <password file> <what you are attack eg ssh://<ip><port>> -t <thread count> -V (verbose)
 
 Do a serch for other subdomain hunting tools
