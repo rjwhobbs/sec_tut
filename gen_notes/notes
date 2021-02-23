@@ -14,3 +14,19 @@ If brute forcing notify client if they did not pick it up
 
 5/////
 Blue walk through lesson on MS17-010
+
+6/////
+Checkout hidden ports and port knocking 
+
+Devel/////
+dirbuster walk through.
+anon ftp. Putting file on server
+msfvenom walk through
+check cheat sheet payload for msfvenom
+setting up a merterpreter shell listener (multi handler)
+
+jerry/////
+base64 typically has equal signs at the end
+Using repeater in burp suite
+brute forcing with intruder on burp suite
+wget but for windows

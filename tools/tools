@@ -22,5 +22,6 @@ usage example: hydra -l <user> -P <password file> <what you are attack eg ssh://
 shodan
 hashcat
 https://github.com/3ndG4me/AutoBlue-MS17-010
+msfvenom
 
 Do a serch for other subdomain hunting tools
