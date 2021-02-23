@@ -20,5 +20,7 @@ OpenVAS
 hydra
 usage example: hydra -l <user> -P <password file> <what you are attack eg ssh://<ip><port>> -t <thread count> -V (verbose)
 shodan
+hashcat
+https://github.com/3ndG4me/AutoBlue-MS17-010
 
 Do a serch for other subdomain hunting tools

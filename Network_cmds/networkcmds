@@ -34,3 +34,6 @@ nikto -h <url>
 
 #Show all devices connected to subnet (not reliable).
 arp-scan -l 
+
+#Show your open ports
+netstat -ano
